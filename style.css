@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(105, 87, 87);
+    color: white;
+}
+
+.size {
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    justify-content: center;
+    text-align: center;
+}
+
+.carousel-inner>.item>img,
+.carousel-inner>.item>img {
+    width: 50%;
+    margin: auto;
+}
+
+header {
+    background-color: rgb(25, 43, 44);
+    padding: 1px 5px 0px 5px;
+    height: 50px;
+    background-attachment: scroll;
+
+}
+
+
+.topnav li a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+#hclr li a:hover {
+    color: white;
+    background-color: rgb(73, 128, 107);
+    padding: 18px 7px 7px 7px;
+    text-decoration: underline;
+    text-size-adjust:unset;
+}
+
+nav a {
+    padding-left: 10px;
+}
+
+.topnav li,
+.dwnav li {
+    list-style: none;
+    display: inline;
+}
+
+footer {
+    background-color: rgb(64, 73, 39);
+    border: 10px solid rgb(179, 177, 84);
+    border-radius: 5px;
+    margin: 0px 125px 0px 125px;
+}
+
+.dwnav {
+    padding-top: 1%;
+    padding-bottom: -2%;
+}
+
+.hover li a:hover {
+    color: rgb(17, 240, 221);
+    background-color: rgb(7, 17, 13);
+    padding: 5px 5px 2px 5px;
+    text-decoration: underline;
+}
+
+.dwnav li a {
+    color: white;
+    font-size: small;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.topnav {
+    margin-top: 3px;
+}
+
+#hclr {
+    margin-top: -25px;
+}
+
+div img {
+    width: 3%;
+    padding-top: 2px;
+}
